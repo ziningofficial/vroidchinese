@@ -1,2 +1,2 @@
 # vroidchinese
-Vroidstudio汉化配置
+Vroidstudio汉化配置文件留存
